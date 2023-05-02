@@ -1,0 +1,85 @@
+// format danh sách món ăn
+[
+    {
+        "_id": "Morico-dish-1",
+        "_type": "dish",
+        "name": "Special Shizuoka Matcha 500ml",
+        "price": 185000,
+        "short_description": "",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/595/s120x120/f38be384-cea5-46b8-8433-a347d1ea-d3756c55-211020135151.jpeg"
+        }
+    },
+    {
+        "_id": "Morico-dish-2",
+        "_type": "dish",
+        "name": "Premium Kyoto Houjicha 260ml",
+        "price": 175000,
+        "short_description": "",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/595/s120x120/5693b9b7-355c-43a3-821c-80987ac0-44275556-210617201820.jpeg"
+        }
+    },
+    {
+        "_id": "Morico-dish-3",
+        "_type": "dish",
+        "name": "Premium Yuzu Sobert 260ml",
+        "price": 175000,
+        "short_description": "",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/595/s120x120/162ff4c3-e897-4477-acf2-88e9a56b-a9766f60-210617201910.jpeg"
+        }
+    }
+]
+//format category
+[
+    {
+        "_id": "sushixxx",
+        "_type": "category",
+        "name": "Sushi",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/595/s120x120/162ff4c3-e897-4477-acf2-88e9a56b-a9766f60-210617201910.jpeg"
+        }
+    }
+]
+
+
+// format danh sách nhà hàng
+[
+    {
+        "_id": "abcxxx",
+        "name": "nhà hàng abc",
+        "short_description": "",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g14/135147/prof/s640x400/file_restaurant_photo_geu0_16378-dd1f7803-211125133431.jpg"
+        },
+        "lat": 10.77281,
+        "long": 106.695378,
+        "_type": "restaurant",
+        "address": "200A Lý Tự Trọng (Ngã 4 Trương Định), P. Bến Thành",
+        "rating": 4.7,
+        "type": {
+            "_type": "reference",
+            "_ref": "sushixxx"  //"_id" của category 
+        },
+        "dishes": [
+            {
+                "_type": "reference",
+                "_ref": "Morico-dish-1"  //"_id" món ăn
+            },
+            {
+                "_type": "reference",
+                "_ref": "Morico-dish-2"
+            },
+            {
+                "_type": "reference",
+                "_ref": "Morico-dish-3"
+            }
+        ]
+    }
+]

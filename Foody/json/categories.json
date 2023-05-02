@@ -1,0 +1,101 @@
+[
+    {
+        "_id": "21",
+        "_type": "category",
+        "name": "M\u00f3n Nh\u1eadt",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/595/prof/s640x400/foody-upload-api-foody-mobile-10-jpg-180508140146.jpg"
+        }
+    },
+    {
+        "_id": "18",
+        "_type": "category",
+        "name": "\u00dd",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/1432/prof/s640x400/foody-mobile-mobile-jpg-174-635519918653945885.jpg"
+        }
+    },
+    {
+        "_id": "1",
+        "_type": "category",
+        "name": "M\u00f3n Vi\u1ec7t",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g9/89822/prof/s640x400/foody-mobile-zas-jpg-258-636086627918162406.jpg"
+        }
+    },
+    {
+        "_id": "4",
+        "_type": "category",
+        "name": "M\u00f3n Trung Hoa",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/5469/prof/s640x400/foody-upload-api-foody-mobile-1212-210112134926.jpg"
+        }
+    },
+    {
+        "_id": "22",
+        "_type": "category",
+        "name": "M\u00f3n H\u00e0n",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g5/42888/prof/s640x400/file_restaurant_photo_yluh_16382-e9f40114-211130095543.jpeg"
+        }
+    },
+    {
+        "_id": "24",
+        "_type": "category",
+        "name": "Ch\u00e2u M\u1ef9",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g2/15031/prof/s640x400/foody-mobile-mobile-jpg-409-635744522405981690.jpg"
+        }
+    },
+    {
+        "_id": "50",
+        "_type": "category",
+        "name": "Qu\u1ed1c t\u1ebf",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g8/77729/prof/s640x400/foody-mobile-12-jpg-868-636171531644694064.jpg"
+        }
+    },
+    {
+        "_id": "19",
+        "_type": "category",
+        "name": "Ph\u00e1p",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g1/4336/prof/s640x400/file_restaurant_photo_poap_16449-bcd029f5-220216080343.jpg"
+        }
+    },
+    {
+        "_id": "36",
+        "_type": "category",
+        "name": "M\u00f3n \u00c1",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g10/96530/prof/s640x400/beauty-upload-api-image-200805140404.jpeg"
+        }
+    },
+    {
+        "_id": "34",
+        "_type": "category",
+        "name": "M\u00f3n \u00c2u",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g2/17455/prof/s640x400/foody-upload-api-foody-mobile-11-jpg-181228165514.jpg"
+        }
+    },
+    {
+        "_id": "30",
+        "_type": "category",
+        "name": "Singapore",
+        "image": {
+            "_type": "image",
+            "_sanityAsset": "image@https://images.foody.vn/res/g21/209769/prof/s640x400/image-9e7b148c-221031114419.jpg"
+        }
+    }
+]
